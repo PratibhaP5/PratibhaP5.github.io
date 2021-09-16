@@ -17,7 +17,7 @@ Phd
 Work Experience
 ======
 1. Scientist
-1. Resaerch Fellow
+1. Research Fellow
 
 Services
 ======
